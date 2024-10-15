@@ -13,3 +13,4 @@ PROPOSED WORK: Counterfeit products usually have an inferior built quality and a
 Image classification approach based on object detection & piece wise painting algorithm (PPA) feature along with decision tree and 
 
 ![image](https://github.com/NavyaBoga1109/FORGED-EMBLEM-DETECTION-APPLICATION/assets/132921457/45a2171e-9541-47eb-b055-11cbd7ecca5d)
+
